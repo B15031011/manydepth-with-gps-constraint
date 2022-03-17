@@ -1,0 +1,1 @@
+python -m manydepth.test_simple --image_path C:\Users\user\Desktop\data --intrinsics_json_path assets/test_sequence_intrinsics.json --model_path C:\Users\user\Desktop\manydepth\pretrained_weight\KITTI_MR
